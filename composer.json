@@ -1,0 +1,22 @@
+{
+    "name": "serpentine/telegram-io",
+    "description": "Serpentine / Telegram IO",
+    "keywords": [],
+    "version": "0.1.0",
+    "homepage": "https://github.com/serpentine-ai/telegram-io",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Nikita Podvirnyy",
+            "email": "suimin.tu.mu.ga.mi@gmail.com",
+            "homepage": "https://github.com/KRypt0nn",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "serpentine/serpentine": "^0.2.0"
+    },
+    "autoload": {
+        "files": ["telegram.php"]
+    }
+}
